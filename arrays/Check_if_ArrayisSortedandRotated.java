@@ -1,4 +1,4 @@
-public class Check_if_ArrayisSortedandRotated {
+class solution {
     public boolean check(int[] nums) {
         int drop=0;
         int n=nums.length;
